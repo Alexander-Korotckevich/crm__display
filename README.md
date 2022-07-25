@@ -1,3 +1,5 @@
-# test_for_Zecurion
+# crm__display
 
-GitHub Pages - https://alexander-korotckevich.github.io/test_for_Zecurion/  
+Страница для CRM приложения
+
+<a href="https://alexander-korotckevich.github.io/test_for_Zecurion/">Demo</a>  
